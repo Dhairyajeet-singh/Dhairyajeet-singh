@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I am Dhairyajeet Singh 👋
+I am currently pursuing a Bachelor in Computer Science Engineering and in my first year, I am invested in the field of Artificial Intelligence and Machine Learning.
 <!--
 **Dhairyajeet-singh/Dhairyajeet-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
